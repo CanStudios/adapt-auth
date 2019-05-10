@@ -11,6 +11,10 @@
     }
   },
   "dependencies": {
-    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "express-session": "^1.16.1"
   }
 }
