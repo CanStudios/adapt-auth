@@ -1,0 +1,17 @@
+{
+  "name": "adapt-authoring-auth",
+  "version": "0.0.1",
+  "description": "Authentication + authorisation module for the Adapt authoring tool",
+  "homepage": "https://github.com/taylortom/adapt-authoring-auth",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true,
+    "utility": "auth",
+    "documentation": {
+      "enable": true
+    }
+  },
+  "peerDependencies": {
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+  }
+}
