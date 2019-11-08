@@ -12,7 +12,9 @@
     }
   },
   "peerDependencies": {
-    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "adapt-authoring-api": "git+https://github.com/taylortom/adapt-authoring-api.git",
+    "adapt-authoring-middleware": "git+https://github.com/taylortom/adapt-authoring-middleware.git"
   },
   "dependencies": {
     "passport": "^0.4.0",
