@@ -1,2 +1,2 @@
 const Module = require('./lib/authModule');
-module.exports = { Module };
+module.exports = Module;
