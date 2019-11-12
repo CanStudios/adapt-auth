@@ -1,2 +1,3 @@
 const Module = require('./lib/authModule');
-module.exports = Module;
+const Utility = require('./lib/utility');
+module.exports = { Module, Utility };
